@@ -5,7 +5,7 @@ Create full-stack apps with React and Express. Run your client and server, and d
 You can follow these instructions and code along with the video - [setup instructions working](https://www.dropbox.com/s/tthmdat3n3vp3be/SettingUpTemplate.mov?dl=0)
 
 ### To create the whole project
-1. Go to your source directory in your Terminal and run the command `git clone https://github.com/Yosolita1978/React-Express-PairProgramming.git NAMENEWDIRECTORY`
+1. Go to your source directory in your Terminal and run the command `git clone [https://github.com/Yosolita1978/React-Express-PairProgramming.git NAMENEWDIRECTORY](https://github.com/Techtonica/ProjectCRUDTemplate.git)`
 ![You will see something like this in your terminal.](https://github.com/Yosolita1978/screenshoots/blob/main/template/Screen%20Shot%202022-03-20%20at%207.50.46%20PM.png?raw=true)
 
 2. To clean the original git history from your folder, run the command `rm -rf .git` (you don't want to work with the forked git of the owner of this template)
